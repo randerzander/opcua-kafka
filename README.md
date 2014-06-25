@@ -16,3 +16,5 @@ node client/client.js "ns=4;s=hook_weight"
 ```
 
 **Note**: The above assumes an Apache Zookeeper instance is running on localhost:2181
+
+A big **thank you** to the people at [https://github.com/node-opcua](node-opcua) and [https://github.com/SOHU-Co/kafka-node](kafka-node) who did all the heavy lifting already!
