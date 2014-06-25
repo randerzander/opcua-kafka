@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "description": "OPCUA compatible data collection server",
+  "main": "server.js",
+  "dependencies": {
+    "node-opcua": "^0.0.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

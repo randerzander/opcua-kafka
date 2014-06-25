@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "description": "client for querying OPCUA compatible data collectors and publishing to Kafka 0.8",
+  "main": "client.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "node-opcua": "^0.0.25",
+    "prozess": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
